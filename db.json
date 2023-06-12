@@ -1,0 +1,10 @@
+{
+  "produtos": [
+    {
+      "nome": "produto a",
+      "preco": 0,
+      "imagem": "https://raw.githubusercontent.com/fabricioalvess/E-commerce-javascript/master/img/camisa.png",
+      "id": 1
+    }
+  ]
+}
